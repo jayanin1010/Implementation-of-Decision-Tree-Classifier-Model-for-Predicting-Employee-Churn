@@ -13,7 +13,7 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 3. Convert the dataset into a dataframe and do preprocessing if required using LabelEncoder
 4. Define the input and target variable
 5. Split the dataset into training and testing data
-6. Train the model using SGDClassifier(),.fit() and predict using .predict()
+6. Train the model using DecisionTreeClassifier(),.fit() and predict using .predict()
 7. Measure the accuracy of the model using accuracy_score()
 8. Test the model with new input data
 
